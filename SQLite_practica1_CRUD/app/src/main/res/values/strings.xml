@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SQLite CRUD</string>
+
+    //Main_Activity
+    <string name="registrar">Registrar Usuarios</string>
+    <string name="registrar_masc">Registar Mascota</string>
+    <string name="consultar">Consultar Usuarios</string>
+    <string name="consultar_spiner">Consultar Usuarios (Spiner)</string>
+    <string name="consultar_listview">Consultar Usuarios (ListView)</string>
+    <string name="consultar_listamasc">Consultar Lista de Mascotas</string>
+
+    //Activity_Registros
+    <string name="txtregistro">Registro de Usuarios</string>
+    <string name="hintid">Id</string>
+    <string name="hintnombre">Nombre</string>
+    <string name="hinttelefono">Telefono</string>
+    <string name="registrar_">Registrar</string>
+
+    //Activity_COnsulta
+    <string name="documento">Documento</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnBuscar">Buscar</string>
+
+    //activity_listview_2
+
+    <string name="id_listview2">Id:</string>
+    <string name="nombre_listview2">Nombre:</string>
+    <string name="telefono_listview2">Telefono: </string>
+
+    //activiy registar mascota
+    <string name="nombre_mascota">Nombre de la Mascota</string>
+    <string name="raza_mascota">Raza de mascota</string>
+    <string name="dueño">Dueño</string>
+
+</resources>
