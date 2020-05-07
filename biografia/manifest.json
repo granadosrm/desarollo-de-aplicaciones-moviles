@@ -1,0 +1,7 @@
+{
+	"name": "Biografia", //nombre que  aparece en el icono de acceso directo
+	"start_url": "",//te envia a un url al hacer click en el icono
+	"display": "browser", //se define como se visualizara la aplicacion(fullscreen,standalone,minimal-ui,browser)
+	"description": "Biografia de alumno en sistemas", //descripcion de lo que trata el sitio web
+	
+}
